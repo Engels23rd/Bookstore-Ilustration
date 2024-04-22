@@ -7,6 +7,8 @@ growth book.
 # Technologies Used
 * Visual Studio code
 * Google Font
+* HTML
+* CSS
 
 
 # Forms
